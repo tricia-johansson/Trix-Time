@@ -15,3 +15,7 @@ main h3 {
 font-family: courier new;
 color: darkgreen;
 }
+
+main a {
+	color: darkgreen;
+}

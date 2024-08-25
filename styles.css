@@ -5,6 +5,16 @@ body {
 background-color: #8BA289;
 font-family: verdana;
 font-size: 12px;
+margin: 0px;
+
+}
+
+header {
+background-color: #576955;
+width: 100%;
+height: 200px;
+
+	
 }
 
 header h1 {
@@ -20,6 +30,6 @@ main a {
 	color: darkgreen;
 }
 
-header h1 a {
+header a {
 color: white;
 }
